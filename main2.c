@@ -2,7 +2,7 @@
 
 int main()
 {
-    int umur;
+    int umur; // Deklarasi variabel umur dengan tipe data integer (bilangan bulat). Variabel ini akan digunakan untuk menyimpan nilai umur yang dimasukkan oleh pengguna.
 
     printf("Masukkan umur: ");
     scanf("%d", &umur); // Fungsi scanf() digunakan untuk membaca input dari pengguna. Dalam hal ini, kita membaca sebuah bilangan bulat (integer) dan menyimpannya ke dalam variabel umur. Tanda & digunakan untuk memberikan alamat memori dari variabel umur agar scanf() dapat menyimpan nilai yang dimasukkan oleh pengguna ke dalam variabel tersebut.
