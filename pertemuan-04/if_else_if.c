@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// if else if adalah pernyataan if yang digunakan untuk mengecek beberapa kondisi secara berurutan. Sintaks dari if else if adalah sebagai berikut:
 int main()
 {
     float nilai;

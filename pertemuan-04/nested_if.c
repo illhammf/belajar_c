@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// Nested if adalah pernyataan if yang berada di dalam pernyataan if lainnya. Nested if digunakan ketika kita ingin melakukan pengecekan kondisi yang lebih spesifik setelah kondisi awal terpenuhi. Sintaks dari nested if adalah sebagai berikut:
 int main()
 {
     int umur;
