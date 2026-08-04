@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// Nested loop adalah salah satu jenis perulangan yang digunakan untuk mengeksekusi blok kode tertentu beberapa kali. Perulangan ini biasanya digunakan ketika kita ingin melakukan perulangan di dalam perulangan. Sintaks dasar dari nested loop adalah sebagai berikut:
 int main()
 {
     int baris, kolom;
