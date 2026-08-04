@@ -5,7 +5,7 @@ int main()
 {
     while (1)
     {
-        printf("Program berjalan terus...\n");
+        printf("Program berjalan terus Hahaha...\n");
     }
 
     return 0;
