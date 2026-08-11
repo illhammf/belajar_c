@@ -993,5 +993,5 @@ Ini baru:
 </p>
 
 <p align="center">
-  <code>printf("Keep learning!");</code>
+  <code>printf("Keep learning si Gantengg!");</code>
 </p>
