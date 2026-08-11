@@ -995,3 +995,25 @@ Ini baru:
 <p align="center">
   <code>printf("Keep learning si Gantengg!");</code>
 </p>
+
+---
+
+# 👨‍💻 Author
+
+**Ilham Firmansyah**
+
+Developer & Computer Science Learner.
+
+Repository ini merupakan dokumentasi perjalanan belajar Bahasa C dari dasar hingga Final Project.
+
+📖 **[Lihat Author Profile →](./AUTHOR.md)**
+
+📜 **[MIT License →](./LICENSE)**
+
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License**.
+
+See the [LICENSE](./LICENSE) file for details.
